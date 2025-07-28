@@ -51,4 +51,4 @@ Tech used:
 - Python
 - JavaScript
 - HTML & Jinja (for email/print templates)
-- PDF Generation (via Print Formats
+- PDF Generation (via Print Formats)
